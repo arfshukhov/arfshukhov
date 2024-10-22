@@ -5,13 +5,12 @@
           
           
           
-          
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arfshukhov&theme=tokyonight)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arfshukhov&theme=tokyonight)
 
 ![codewars](https://www.codewars.com/users/Harfile/badges/large)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfshukhov&layout=compact&show_icons=true&&theme=tokyonight) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfshukhov&layout=compact&show_icons=true&&theme=tokyonight)
 
 
 
