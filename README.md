@@ -10,7 +10,7 @@
 ![codewars](https://www.codewars.com/users/Harfile/badges/large)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfshukhov&layout=compact&show_icons=true&&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arfshukhov&layout=compact&show_icons=true&&theme=tokyonight
 
 
 
